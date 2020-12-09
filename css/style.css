@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    background-color: darkgray;
+}
+
+.search{
+    position: relative;
+    top: 10%;
+    left: 10%;
+}
+
+.grid-box{
+    margin: 10%;
+}
+
+.grid{
+    background-color: blanchedalmond;
+}
+
+.input:hover{
+    background-color: whitesmoke;
+}
+
+.button:hover{
+    background-color: darkgrey;
+}
+
